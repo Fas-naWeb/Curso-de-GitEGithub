@@ -1,4 +1,4 @@
-package SOBREGIT;
+package $01_INTRODUCAO;
 
 public class $004_ComandosDogit {
 	
