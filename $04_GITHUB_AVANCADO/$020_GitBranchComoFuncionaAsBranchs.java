@@ -16,5 +16,9 @@ public class $020_GitBranchComoFuncionaAsBranchs {
 	 *    
 	 *    Comando git branch + (nome da branch) -> cria uma branch
 	 *    Ex: git branch login
+	 *    
+	 *    git branch -> Comando utilizado para verificar quais branchs estao nesse repositorio.
+	 *    
+	 *    git branch -D  + (nome da branch) -> deleta uma branch
 	 */
 }
