@@ -2,6 +2,7 @@ package $04_GITHUB_AVANCADO;
 
 public class $025_GitReset {
 	/*
+<<<<<<< HEAD
 	 *  GIT RESET 
 	 *   E um comando que exclui todos comites acima dele deixando o seu commit escolhido no topo dos 
 	 *   outros commites.
@@ -11,5 +12,11 @@ public class $025_GitReset {
 	 *   
 	 *   git reset 421ee840c923d5296962d7c1bcdccdc2b94148b9
 
+=======
+	 *  E um comando que reverte mudancas na sua branch.
+	 *  Quando voce faz um reset voce estara excluindo commits que não estaram fazendo parte
+	 *  da sua branch.
+	 *  voce pode escolher um rache,n qual sera o cabeca dos seus logs.
+>>>>>>> 760c8f3258ffcdb2994aa8ed07c616c663989937
 	 */
 }
