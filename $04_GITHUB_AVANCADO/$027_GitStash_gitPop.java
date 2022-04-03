@@ -10,6 +10,9 @@ public class $027_GitStash_gitPop {
 	 *  chos guardando para utilizar depois,então git stash faz uma pilha desses codigos 
 	 *  ai voce resolve depois quais serao uteis para voce utilizar definitivaveme.Ou seja
 	 *  so vai valer mesmo depois que voce commita-los definitivamente.
+	 *  
+	 *  com git stash voce tem que adicionar ( git add .),como se fosse fazer um commit,
+	 *  porem voce esta adicionando os pontos de codigo numa pilha,sem comitalos. 
 	 */
 }
 
