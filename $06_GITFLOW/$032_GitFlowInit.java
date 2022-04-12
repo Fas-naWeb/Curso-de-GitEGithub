@@ -10,5 +10,8 @@ public class $032_GitFlowInit {
 	 *  Entao voce não pode usar os comandos do git flow sem antes inicializa-los.
 	 *  	Passo 01 -  git flow init
 	 *  	
+	 *  
+	 *  	Branch name for production releases: [main] -> Producao final,e a que vai receber o que vai ser final.
+
 	 */
 }
