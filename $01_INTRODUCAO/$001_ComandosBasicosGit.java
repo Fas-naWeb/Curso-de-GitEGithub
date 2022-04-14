@@ -15,7 +15,7 @@ public class $001_ComandosBasicosGit {
 	 *   tab -> Tem a função de alto completar
 	 *   mkdir + o nome do diretório -> Cria uma pasta (Diretório)
 	 *   echo -> devolve o conteudo de um arquivo.
-	 *   cat -> Devolve o conteudo de um arquivo
+	 *   cat -> Devolve o conteudo de um arquivo.
 	 *   mr -rf -> Deleta um diretório inclusive as pastas que estão dentro..
 	 *   
 	 * 	
