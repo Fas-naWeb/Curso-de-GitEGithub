@@ -28,5 +28,5 @@ public class $033_GitFlowFeature {
 	 *     git push --set-upstream origin feature + NOME DA BRANCH 
 	 */
 	
-	// Tudo terminado .....
+	 // Fazendo um possivel teste da branch nova
 }
