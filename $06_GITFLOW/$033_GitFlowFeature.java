@@ -12,13 +12,20 @@ public class $033_GitFlowFeature {
 	 *   
 	 *   
 	 * GIT FLOW FEATURE FINISH + NOME DA BRANCH
-	 *    merge feature branch + NOME DA BRANCH DENTRO DE DEVELOP 
-	 *    git checkout develop 
-	 *    git branch + NOME DA BRANCH
-	 *    Deleta a feature branch 
-	 *    git branch -D + nome da branch
-	 *    muda para develop 
-	 *    git checkout develop
+	 *   -  merge feature branch + NOME DA BRANCH DENTRO DE DEVELOP 
+	 *       git checkout develop 
+	 *    
+	 *   - git branch + NOME DA BRANCH
+	 *       deleta a feature branch 
+	 *       git branch -D + nome da branch
+	 *       
+	 *   - muda para develop 
+	 *       git checkout develop
+	 *    
+	 *    
+	 * GIT FLOW FEATURE PUBLISH + NOME DA BRANCH
+	 *   - cria uma branch remota
+	 *     git push --set-upstream origin feature + NOME DA BRANCH 
 	 */
 	
 	// Tudo terminado .....
