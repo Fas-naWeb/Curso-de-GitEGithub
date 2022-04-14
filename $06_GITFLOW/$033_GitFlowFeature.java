@@ -5,18 +5,18 @@ public class $033_GitFlowFeature {
 	 * SERVE PARA TRABALHAR COM FEATURE BRANCH
 	 *   
 	 * GIT FLOW FEATURE START + NOMEDA BRANCH
-<<<<<<< HEAD
+
 	 *    Substitui tres comandos sao eles:
-=======
+
 	 *         O QUE ELE FAZ,SUBSTITUI TRES COMANDOS
->>>>>>> develop
+
 	 *       - git branch -b baseado na branch develop -
 	 *       - automaticamente nomeia  com feature/NOMEBRANCH -
 	 *       - Passa a usar a nova branch -
 	 *   
 	 *   
 	 * GIT FLOW FEATURE FINISH + NOME DA BRANCH
-<<<<<<< HEAD
+
 	 *    merge feature branch + NOME DA BRANCH DENTRO DE DEVELOP 
 	 *    git checkout develop 
 	 *    git branch + NOME DA BRANCH
@@ -24,7 +24,7 @@ public class $033_GitFlowFeature {
 	 *    git branch -D + nome da branch
 	 *    muda para develop 
 	 *    git checkout develop
-=======
+
 	 *    
 	 *   O QUE ELE FAZ,SUBSTITUI TRES COMANDOS
 	 *   
@@ -41,7 +41,7 @@ public class $033_GitFlowFeature {
 	 * GIT FLOW FEATURE PUBLISH + NOME DA BRANCH
 	 *   - cria uma branch remota e a publica no github
 	 *   substitui esse comando -> git push --set-upstream origin feature + NOME DA BRANCH 
->>>>>>> develop
+
 	 */
 	
 	
