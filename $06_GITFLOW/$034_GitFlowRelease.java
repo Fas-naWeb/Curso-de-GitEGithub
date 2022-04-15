@@ -16,5 +16,9 @@ public class $034_GitFlowRelease {
 	 *     - Cria uma tag com o nome release + nome da branch
 	 *     - Merge a release dentro da develop
 	 *     - deleta a release branch
+	 *     
+	 *  GIT FLOW RELEASE PUBLISH + NOME DA BRANCH
+	 *     - Cria uma branch remota 
+	 *     - (git push --set-upstream origin release/ + nome da branch
 	 */
 }
