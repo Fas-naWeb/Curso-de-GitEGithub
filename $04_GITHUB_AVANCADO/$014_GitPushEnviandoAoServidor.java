@@ -6,7 +6,7 @@ public class $014_GitPushEnviandoAoServidor {
 	 *   E o comando que envia para o github seus dados alterados no git local.
 	 *   
 	 *   Voce pode usar o git status antes para ver a situacao do seu projeto,caso tenha que adicionar dados e comitar
-	 *   algo o git ira lhe pedir isso antes de voce fazer um push.
+	 *   algo o git ira lhe pedir isso antes de voce fazer um push..
 	 *   
 	 *   voce pode tambem utilizar um git remote -v para ver se a conecao do seu repositorio local esta correta com o re
 	 *   positorio do github.
