@@ -9,7 +9,7 @@ public class $019_GitTagMarcandoRelease {
 	 *    guardado zipado.Ficara disponivel para voce o recuperar quando precisar.
 	 *    
 	 *  COMO CRIAR ESSA TAG
-	 *    No seu repositorio do github voce clica em tag - nova release
+	 *    No seu repositorio do github voce clica em tag - nova release.
 	 *    vai digitar uma versao para tag - vai salvar draft e depois publicar.
 	 *    
 	 *    Depois e so verificar em tags e ve se foi criado sua tag.
