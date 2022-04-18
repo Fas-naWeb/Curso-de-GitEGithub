@@ -13,7 +13,7 @@ public class $004_ComandosDogit {
 	 * git rm + nome do arquivo ,retorna o arquivo ao estado anterior ,quando foi adicionado.
 	 * git rm -f + nome do arquivo força a remoção do arquivo.
 	 * git commit -m "" - Descrição do seu commit
-	 * git branch - Mostra em que branch você esta no momwento
+	 * git branch - Mostra em que branch você esta no momwento.
 	 * git remote -v Verifica  se tem conexão com repositório remoto
 	 * git push origin nome da branch - Envia suas alterações para o gitHub
 	 * git clone - Clona um repositório para sua máquina local.
