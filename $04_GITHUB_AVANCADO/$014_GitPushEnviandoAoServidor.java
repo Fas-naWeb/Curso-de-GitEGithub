@@ -16,7 +16,7 @@ public class $014_GitPushEnviandoAoServidor {
 	 *   por fim usa-se o git push para enviar os dados comitados para o repositorio do github.
 	 *   
 	 *   RESUMO
-	 *      GIT STATUS -> VERIFICA A SITUACAO DO PROJETO
+	 *      GIT STATUS ->> VERIFICA A SITUACAO DO PROJETO
 	 *      GIT ADD . -> ADICIONA TODAS AS ALTERACOES DO PROJETO
 	 *      GIT COMMIT -M " " -> DESCREVE O PORQUE DESSE COMMIT
 	 *      GIT PUSH ORIGIN  + NOME DA BRANCH -> ENVIA AS ALTERACOES PARA O GITHUB. 
