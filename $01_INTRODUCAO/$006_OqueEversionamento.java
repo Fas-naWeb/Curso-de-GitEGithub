@@ -13,7 +13,7 @@ public class $006_OqueEversionamento {
 	 * em uma branch que chamamos de master e que a partir dela se faz ramificacoes,onde as mesmas serao trabalhadas
 	 * e quando nao ouver mais alteracoes a fazer devolveremos tudo para a master que e o ponto de partida do projeto,
 	 * que por sua vez vai recebendo as alteracoes feitas em outras ramificacoes e ficando atualizada conforme o software
-	 * cresce.
+	 * cresce..
 	 * 
 	 * SITUACOES DE VERCIONAMENTO
 	 * 1° -	Voltei de ferias 2324.. novos arquivos
