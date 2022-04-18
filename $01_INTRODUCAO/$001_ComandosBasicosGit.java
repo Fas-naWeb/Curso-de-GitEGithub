@@ -11,7 +11,7 @@ public class $001_ComandosBasicosGit {
 	 *      Ex: cd\ Volta a pasta raiz do sistema
 	 *   
 	 *   clear -> Comando que limpa a tela do terminal
-	 *   ctrl + l Também limpa a tela do terminal.
+	 *   ctrl + l Tambem limpa a tela do terminal.
 	 *   tab -> Tem a funcao de alto completar
 	 *   mkdir + o nome do diretorio -> Cria uma pasta (Diretorio)
 	 *   echo -> devolve o conteudo de um arquivo.
