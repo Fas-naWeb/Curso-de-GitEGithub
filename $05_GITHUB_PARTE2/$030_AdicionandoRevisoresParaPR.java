@@ -3,7 +3,7 @@ package $05_GITHUB_PARTE2;
 public class $030_AdicionandoRevisoresParaPR {
 	/*
 	 * Voce pode pedir para alguem revisar seu codigo.
-	 * Clicando no seu Pull Request voce vai ter algumas abas no seu painel direito
+	 * Clicando no seu Pull Request voce vai ter algumas abas no seu painel direito.
 	 * 
 	 * COMO - Reviewers     -> Insere alguem para revisar seu pull request
 	 *      - Assignees     -> Sao pessoas que estao notificadas do seu pull request
