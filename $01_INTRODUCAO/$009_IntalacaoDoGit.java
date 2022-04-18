@@ -12,7 +12,7 @@ public class $009_IntalacaoDoGit {
 	 *  -------------------------------------------------------
 	 *  
 	 *  NO LINUX 
-	 *  Ja existe o terminal e so utilizar o comando 
+	 *  Ja existe o terminal e so utilizar o comando.
 	 *  sudo apt install git -> Comando de instalação do git
 	 *       
 	 *  git --version -> Mostra a versão do git instalado
