@@ -3,21 +3,19 @@ package $01_INTRODUCAO;
 public class $001_ComandosBasicosGit {
 	/*
 	 * COMANDOS INICIAIS LINUX
-	 * 	 ls -> Mostra uma lista de diretórios em que você esta no momento.
+	 * 	 ls -> Mostra uma lista de diretarios em que voce esta no momento.
 	 *   
-	 *   cd -> Comando que sobe um diretório ou descde um diretório
-	 *      Ex:cd + nome do diretório
-	 *      Ex:cd .. Recua um diretório
+	 *   cd -> Comando que sobe um diretario ou descde um diretorio
+	 *      Ex:cd + nome do diretorio
+	 *      Ex:cd .. Recua um diretorio
 	 *      Ex: cd\ Volta a pasta raiz do sistema
 	 *   
 	 *   clear -> Comando que limpa a tela do terminal
 	 *   ctrl + l Também limpa a tela do terminal.
-	 *   tab -> Tem a função de alto completar
-	 *   mkdir + o nome do diretório -> Cria uma pasta (Diretório)
+	 *   tab -> Tem a funcao de alto completar
+	 *   mkdir + o nome do diretorio -> Cria uma pasta (Diretorio)
 	 *   echo -> devolve o conteudo de um arquivo.
 	 *   cat -> Devolve o conteudo de um arquivo.
-	 *   mr -rf -> Deleta um diretório inclusive as pastas que estão dentro..
-	 *   
-	 * 	
+	 *   mr -rf -> Deleta um diretorio inclusive as pastas que estao dentro..
 	 */
 }
