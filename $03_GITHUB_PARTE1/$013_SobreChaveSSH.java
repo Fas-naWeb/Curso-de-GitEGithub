@@ -6,7 +6,7 @@ public class $013_SobreChaveSSH {
 	 * se identifique e nesse caso é necessário que você digite seu email e senha quando vai subir código para o mesmo toda vez que altera um arquivo.
 	 * 
 	 * Chaves SSH é sua identificação automática,permite que seu código suba para o
-	 * GitHub sem te que ficar digitando senha a todo momento.
+	 * GitHub sem te que ficar digitando senha a todo momento..
 	 * 
 	 * COMO CONFIGURAR
 	 * 	1° Primeiro é necessario ter uma conta no GitHub
