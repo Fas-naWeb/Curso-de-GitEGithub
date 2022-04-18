@@ -12,7 +12,7 @@ public class $020_GitBranchComoFuncionaAsBranchs {
 	 *    mais e do que uma copia da sua branch principal, ou seja ,voce tem uma copia do projeto em determinado ponto de processo,onde 
 	 *    nessa ramificacao voce vai comecar a implementar sua parte, o que voce esta desenvolvendo.E isso vale para os outros desen
 	 *    volvedores que estiverem desenvolvendo outras partes do projeto.Essas partes vao sendo criadas em paralelo e quando voce
-	 *    estiver acabado de fazer a parte que lhe cabe voce adiciona tudo que voce criou ao projeto principal ou seja a branch principal.
+	 *    estiver acabado de fazer a parte que lhe cabe voce adiciona tudo que voce criou ao projeto principal ou seja a branch principal..
 	 *    
 	 *    Comando git branch + (nome da branch) -> cria uma branch
 	 *    Ex: git branch login
