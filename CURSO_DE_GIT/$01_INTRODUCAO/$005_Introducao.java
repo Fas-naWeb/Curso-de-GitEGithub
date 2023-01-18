@@ -9,6 +9,5 @@ public class $005_Introducao {
 	 * muitos erros pelo fato de um mesmo arquivo ficar sendo atualizado por varias pessoas ao mesmo tempo.
 	 * 
 	 * Com o git podemos trabalhar de forma distribuida controlando o software de forma  versionada.
-	 * 
 	 */
 }
