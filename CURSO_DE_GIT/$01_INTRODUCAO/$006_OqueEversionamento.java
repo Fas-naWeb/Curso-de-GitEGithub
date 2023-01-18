@@ -21,6 +21,6 @@ public class $006_OqueEversionamento {
 	 * 3° - Mexi em um arquivo mais não era pra ter mexido
 	 * 4° - Não consigo juntar minha branch  pois esta  tao diferente depois de x semanas
 	 * 5° - Vai quebrar o servico (MEDO)
-	 * 6° - Sistema quebrou quem fez essa  *&$% ?????
+	 * 6° - Sistema quebrou quem fez essa  *&$% ??????
 	 */
 }
