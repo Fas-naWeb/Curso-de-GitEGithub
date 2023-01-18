@@ -16,6 +16,6 @@ public class $001_ComandosBasicosGit {
 	 *   mkdir + o nome do diretorio -> Cria uma pasta (Diretorio)
 	 *   echo -> devolve o conteudo de um arquivo.
 	 *   cat -> Devolve o conteudo de um arquivo.
-	 *   mr -rf -> Deleta um diretorio inclusive as pastas que estao dentro..
+	 *   mr -rf -> Deleta um diretorio inclusive as pastas que estao dentro...
 	 */
 }
