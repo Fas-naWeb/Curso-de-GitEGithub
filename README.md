@@ -20,8 +20,15 @@ INTRODUÇÃO
   </li>
 
   <li>
-    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24007_OqueEgitHub.java">
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub--- 
+              Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24007_OqueEgitHub.java">
       O que é gitHub
+    </a>
+  </li>
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24002_InstalacaoDoGit.java">
+      Instalação do git no Linux
     </a>
   </li>
   
