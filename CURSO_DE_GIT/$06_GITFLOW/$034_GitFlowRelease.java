@@ -7,7 +7,7 @@ public class $034_GitFlowRelease {
 	 *  ESTA FAZENDO TRES COMANDOS
 	 *     - Cria uma branch baseada na develop
 	 *     - Nomeia como release + nome da branch
-	 *     - Tras a branch como ativa,passa a usar a nova branch
+	 *     - Tras a branch como ativa,passa a usar a nova branch.
 	 *     
 	 *     
 	 *     
