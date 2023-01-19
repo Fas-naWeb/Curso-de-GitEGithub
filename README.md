@@ -121,6 +121,54 @@ INTRODUÇÃO
     <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24019_GitTagMarcandoRelease.java">
       Sobre git tag Releases
     </a>
-  </li> 
+   </li> 
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24020_GitBranchComoFuncionaAsBranchs.java">
+      Sobre git branch 
+    </a>
+   </li>
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24021_gitCheckoutAtivandoBranch.java">
+      Sobre git Checkout
+    </a>
+   </li>
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24022_GitMerge.java">
+      Sobre git merge
+    </a>
+   </li>
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24023_GitRebase.java">
+      Sobre git rebase
+    </a>
+   </li> 
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24024_GitCherry_Pick.java">
+      Sobre git cherry pick
+    </a>
+   </li> 
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24025_GitReset.java">
+      Sobre git reset
+    </a>
+   </li> 
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24026_GitClean.java">
+      Sobre git clean
+    </a>
+   </li> 
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24027_GitStash_gitPop.java">
+      Sobre git stash e git pop
+    </a>
+   </li> 
  </ol>
 
