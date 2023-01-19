@@ -10,7 +10,7 @@ public class $013_SobreChaveSSH {
 	 * 
 	 * COMO CONFIGURAR
 	 * 	1° Primeiro é necessario ter uma conta no GitHub
-	 *  2° No menu que tem sua foto de logado,clique na seta para baixo e va até Seting ou Definições
+	 *  2° No menu que tem sua foto de logado,clique na seta para baixo e va até Seting ou Definições.
 	 *  3° No menu a esquerda va até Chave SSH e GPG
 	 *  4° A direita a um botão nova chave SSH
 	 *  5° Para gerar a chave é necessário usar o terminal do Git Bash,abra o terminal.
