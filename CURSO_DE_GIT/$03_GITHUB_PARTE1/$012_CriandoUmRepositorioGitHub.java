@@ -8,7 +8,7 @@ public class $012_CriandoUmRepositorioGitHub {
 	 *    3° - Clique em novo repositorio.
 	 *    4° - Na pagina que abrir insira um nome e uma descricao nos campos correspondentes,selecione public se for 
 	 *         um repositorio publico ou selecione privado se voce for criar um repositorio privado.
-	 *    5° - Selecione um readme e um gitignore se voce achar necessario
+	 *    5° - Selecione um readme e um gitignore se voce achar necessario.
 	 *    6° - Clique em criar repositorio. 
 	 */
 }
