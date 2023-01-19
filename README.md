@@ -115,6 +115,12 @@ INTRODUÇÃO
     <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24018_GitLogVerificandoHistorico.java">
       Sobre git log
     </a>
+  </li>
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24019_GitTagMarcandoRelease.java">
+      Sobre git tag Releases
+    </a>
   </li> 
  </ol>
 

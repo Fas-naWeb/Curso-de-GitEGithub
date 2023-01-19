@@ -12,7 +12,7 @@ public class $019_GitTagMarcandoRelease {
 	 *    No seu repositorio do github voce clica em tag - nova release.
 	 *    vai digitar uma versao para tag - vai salvar draft e depois publicar.
 	 *    
-	 *    Depois e so verificar em tags e ve se foi criado sua tag.
+	 *    Depois e so verificar em tags e ve se foi criado sua tag
 	 *    Se tudo ocorreu corretamente voce tera nessa release um arquivo zipado contendo o codigo ate o ponto que voce desejava.
 	 *   
 	 */
