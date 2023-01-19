@@ -1,7 +1,7 @@
 <h1 align="center">Curso-de-Git e Github</h1>
 <img src=https://github.com/Fas-naWeb/Curso-de-Linux---Concluido/blob/main/Aprendendo_Linux/src/recursos/Curso-de-Git-e-GitHub.png width=200px>
 
-<h2>Curso completo de gitEgithub Udemy Artur.D</h2>
+<h2>Curso completo de git e github Udemy-Artur.D</h2>
 
 INTRODUÇÃO
 <ol>  
