@@ -51,6 +51,12 @@ INTRODUÇÃO
     <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24003_SobreChaveSSH.java">
       Configuração da chave SSH
     </a>
+  </li>
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24008_OqueEgitFlow.java">
+      Configuração da chave SSH
+    </a>
   </li> 
  </ol>
 
