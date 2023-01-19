@@ -6,29 +6,25 @@
 INTRODUÇÃO
 <ol>  
   <li>
-    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub--- 
-              Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24005_Introducao.java">
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24005_Introducao.java">
       Por que aprender git
     </a>
   </li>
 
    <li>
-    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub--- 
-              Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24006_OqueEversionamento.java">
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Conluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24006_OqueEversionamento.java">
       O que é versionamento de código
     </a>
   </li>
 
   <li>
-    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub--- 
-              Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24007_OqueEgitHub.java">
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24007_OqueEgitHub.java">
       O que é gitHub
     </a>
   </li>
 
   <li>
-    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub--- 
-              Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24002_InstalacaoDoGit.java">
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24002_InstalacaoDoGit.java">
       Instalação do git no Linux
     </a>
   </li>  
