@@ -15,6 +15,6 @@ public class $023_GitRebase {
    *    2° - Fazendo o git rebase,que vai jogar seu codigo em cima do ultimo merge feito na master 
    *         entao seu commits vai ficar separado do programador anterior,vai fica no topo dos logs. 
    *         
-   *         Simplesmente git rebase
+   *         Simplesmente git rebase.
    */
 }
