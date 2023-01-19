@@ -228,5 +228,20 @@ SOBRE GIT FLOW
     </a>
    </li> 
  </ol>
+
+ EXTRAS TREINOS E DICAS
+<ol>
+  <li>
+     <a href="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2407_EXTRA_TREINOEDICAS/%24036_CriandoArquivoAlias.java">
+       Arquivos Alias
+     </a>
+  </li>
+
+  <li>
+     <a href="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2407_EXTRA_TREINOEDICAS/%24037_CriandoArquivoGitIgnore.java">
+       Criando arquivos .gitIgnore
+    </a>
+  </li>
+ </ol>
  
 
