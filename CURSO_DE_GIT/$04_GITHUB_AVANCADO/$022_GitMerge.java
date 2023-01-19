@@ -10,6 +10,6 @@ public class $022_GitMerge {
 	 *    que e a master depois voce faz o merge.
 	 *    
 	 *    git checkout master
-	 *    git merge login
+	 *    git merge login.
 	 */
 }
