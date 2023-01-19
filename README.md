@@ -39,6 +39,12 @@ INTRODUÇÃO
     <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24001_ComandosBasicosGit.java">
       Comandos básicos do git
     </a>
+  </li>
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24004_ComandosDogit.java">
+      Comandos básicos do git
+    </a>
   </li> 
  </ol>
 

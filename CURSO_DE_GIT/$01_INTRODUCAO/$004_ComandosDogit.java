@@ -8,7 +8,7 @@ public class $004_ComandosDogit {
 	 * git config --global user.email digite seu email
 	 * git config --global user.name digite seu nome
 	 * 
-	 * git status - Mostra como esta seu versionamento
+	 * git status - Mostra como esta seu versionamento.
 	 * git add . - Marca os arquivos alterado para ser comitado
 	 * git rm + nome do arquivo ,retorna o arquivo ao estado anterior ,quando foi adicionado.
 	 * git rm -f + nome do arquivo força a remoção do arquivo.
