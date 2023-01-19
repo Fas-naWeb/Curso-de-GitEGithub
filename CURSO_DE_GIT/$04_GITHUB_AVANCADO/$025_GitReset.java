@@ -16,7 +16,7 @@ public class $025_GitReset {
 	 *  E um comando que reverte mudancas na sua branch..
 	 *  Quando voce faz um reset voce estara excluindo commits que não estaram fazendo parte
 	 *  da sua branch.
-	 *  voce pode escolher um rache,no qual sera o cabeca dos seus logs.
+	 *  voce pode escolher um rache,no qual sera o cabeca dos seus logs..
 	 *  
 	 *  PARA FORCAR UM PUSH
 	 *   git push -f
