@@ -109,6 +109,12 @@ INTRODUÇÃO
     <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24017_GitFetchAtualizandoSuasBranchs.java">
       Sobre git fetch
     </a>
+  </li>
+
+   <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24018_GitLogVerificandoHistorico.java">
+      Sobre git log
+    </a>
   </li> 
  </ol>
 
