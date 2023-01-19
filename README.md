@@ -1,5 +1,5 @@
 <h1 align="center">Curso-de-Git e Github</h1>
-<img src=https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/recursos/logo5.png width=300px>
+<img src= https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/recursos/logo1.png width=300px>
 
 <h2>Curso completo de git e github Udemy-Artur.D</h2>
 
