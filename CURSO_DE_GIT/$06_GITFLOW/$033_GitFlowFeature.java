@@ -4,7 +4,7 @@ public class $033_GitFlowFeature {
 	/*
 	 * SERVE PARA TRABALHAR COM FEATURE BRANCH
 	 *   
-	 * GIT FLOW FEATURE START + NOMEDA BRANCH
+	 * GIT FLOW FEATURE START + NOMEDA BRANCH.
 
 	 *    Substitui tres comandos sao eles:
 
