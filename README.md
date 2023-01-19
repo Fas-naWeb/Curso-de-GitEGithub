@@ -43,7 +43,13 @@ INTRODUÇÃO
 
   <li>
     <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24004_ComandosDogit.java">
-      Comandos básicos do git
+      Comandos básicos do git parte 2
+    </a>
+  </li>
+
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2401_INTRODUCAO/%24003_SobreChaveSSH.java">
+      Configuração da chave SSH
     </a>
   </li> 
  </ol>
