@@ -97,6 +97,12 @@ INTRODUÇÃO
     <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24015_gitCloneClonadoRepositorio.java">
       Sobre git clone
     </a>
+  </li>
+
+   <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24016_gitPullBaixandoCommits.java">
+      Sobre git pull
+    </a>
   </li> 
  </ol>
 
