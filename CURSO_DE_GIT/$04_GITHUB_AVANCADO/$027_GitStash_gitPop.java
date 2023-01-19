@@ -18,7 +18,7 @@ public class $027_GitStash_gitPop {
 	 *   git add -> Primeiro adiciona o arquivo.
 	 *   git stash -> Salva o arquivo numa lista para voce recuperalos depois.
 	 *   git stash list -> Mostra uma lista dos stash salvos
-	 *   git stash pop -> Retorna os arquivos para voce comita-los ou removelos
+	 *   git stash pop -> Retorna os arquivos para voce comita-los ou removelos.
 	 */
 }
 
