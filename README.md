@@ -84,8 +84,13 @@ INTRODUÇÃO
       Criando chave SSH
     </a>
   </li> 
-
-
  </ol>
-
+ COMANDOS GIT AVANÇADO
+ <ol>
+   <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2404_GITHUB_AVANCADO/%24014_GitPushEnviandoAoServidor.java">
+      Sobre git Push
+    </a>
+  </li> 
+ </ol>
 
