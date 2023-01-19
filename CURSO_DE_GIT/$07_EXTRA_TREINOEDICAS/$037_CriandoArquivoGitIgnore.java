@@ -2,7 +2,7 @@ package $07_EXTRA_TREINOEDICAS;
 
 public class $037_CriandoArquivoGitIgnore {
 	/**
-	 * GIT IGNORE -> Ele serve para ignorar arquivos, então se voce colocar 
+	 * GIT IGNORE -> Ele serve para ignorar arquivos, entï¿½o se voce colocar 
 	 * um arquivo dentro do gitignore,quando voce fizer um push ele nem vai 
 	 * verificar ele simplismente ignora esse arquivo.
 	 * 
@@ -10,7 +10,7 @@ public class $037_CriandoArquivoGitIgnore {
 	 * no gitHub.Para verificarmos se realmente ele esta sendo ignorado.
 	 * 
 	 * Utilize o vi .gitignore + enter
-	 * Aperte a tecla i para entrar no modo de edicao
+	 * Aperte a tecla i para entrar no modo de edicao.
 	 * 
 	 * voce pode ignorar arquivos pela extencao ou pelo no do arquivo
 	 * Ex: Se voce colocar *.java voce esta ignorando qualquer arquivo de extencao .java
