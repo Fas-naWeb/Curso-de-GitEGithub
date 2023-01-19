@@ -59,6 +59,8 @@ INTRODUÇÃO
     </a>
   </li> 
 </ol>
+
+
   SOBRE GIT HUB
 <ol>
    <li>
@@ -85,6 +87,8 @@ INTRODUÇÃO
     </a>
   </li> 
  </ol>
+
+
  COMANDOS GIT AVANÇADO
  <ol>
    <li>
@@ -171,4 +175,33 @@ INTRODUÇÃO
     </a>
    </li> 
  </ol>
+
+ ANALISANDO BRANCH E PULLREQUEST
+
+ <ol>
+  <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2405_GITHUB_PARTE2/%24028_Analisando_BranchECommits.java">
+      Analisando branch e commits
+    </a>
+   </li> 
+
+   <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2405_GITHUB_PARTE2/%24029_Sobre_PullRequest.java">
+      Sobre pull request
+    </a>
+   </li> 
+
+   <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2405_GITHUB_PARTE2/%24030_AdicionandoRevisoresParaPR.java">
+      Adicionando revisores para Pullrequest
+    </a>
+   </li> 
+
+   <li>
+    <a href ="https://github.com/Fas-naWeb/Curso-de-GitEGithub---Concluido/blob/main/CURSO_DE_GIT/%2405_GITHUB_PARTE2/%24031_ComoRevisarUmPullRequest.java">
+      Revisar Pullrequest
+    </a>
+   </li> 
+ </ol>
+ 
 
