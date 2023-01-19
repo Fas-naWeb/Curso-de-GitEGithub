@@ -14,7 +14,7 @@ public class $011_ComandosBasicos {
 	 *  salve essas alteracoes e que depois voce transcreva uma breve descricao sobre essas alteracoes.
 	 *  
 	 *  git add + o nome do arquivo ou -> Aqui voce adiciona o arquivo em si
-	 *  git add . -> Aqui voce adiciona todos arquivos que foram alterados..
+	 *  git add . -> Aqui voce adiciona todos arquivos que foram alterados...
 	 * ---------------------------------------------------------------------------
 	 * 
 	 * DESVINCULANDO UM ARQUIVO -> RM
