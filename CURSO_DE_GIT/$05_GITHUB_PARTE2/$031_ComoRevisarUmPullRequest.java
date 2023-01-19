@@ -7,7 +7,7 @@ public class $031_ComoRevisarUmPullRequest {
 	 * - adicionando comentarios -
 	 * - comentando              -
 	 * - aprovando               -
-	 * - request changes -> Pedindo para arrumar o codigo --
+	 * - request changes -> Pedindo para arrumar o codigo ---
 	 * 
 	 *  voce pode clicar no + e fazer um comentario sobre o codigo que voce que a mudanca.
 	 *  No botao de adicionar review verdinho vai aparecer o numero de pontos que voce pediu 
